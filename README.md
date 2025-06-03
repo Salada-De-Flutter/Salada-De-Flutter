@@ -1,6 +1,6 @@
 <!-- Banner animado simples -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00ADD8&center=true&width=700&lines=Olá,+sou+KyriGo;Estudante+Ensino+Médio+e+Técnico+SENAI;Bem-vindo+ao+meu+GitHub" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00ADD8&center=true&width=700&lines=Olá!+sou+KyriGo;Estudante+Ensino+Médio+e+Técnico+SENAI;Bem-vindo+ao+meu+GitHub" alt="Typing SVG" />
 </p>
 
 <p align="center">
