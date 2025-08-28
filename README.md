@@ -15,32 +15,16 @@
 
 - Estudante do Ensino Médio e curso técnico SENAI.
 - Interesse em tecnologia, programação e desenvolvimento de software.
-- Estudo Go e ferramentas relacionadas.
 - Buscando aprendizado contínuo, práticas sólidas e participação em projetos colaborativos.
 
 <h2 align="center">Tecnologias</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
 </p>
-
-<h2 align="center">Projetos</h2>
-
-<table align="center">
-  <tr>
-    <td><b><a href="https://github.com/KyriGo/projeto-go-incrivel">projeto-go-incrivel</a></b></td>
-    <td>Microserviço de alta performance desenvolvido em Go.</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/KyriGo/outro-projeto">outro-projeto</a></b></td>
-    <td>Projeto para estudos e experimentação.</td>
-  </tr>
-</table>
 
 <h2 align="center">Estatísticas</h2>
 
